@@ -13,7 +13,7 @@ Conceitos de qualidade em software: Garantir que o produto atenda aos requisitos
 
 - Metodologias: QA em Agile (testes contínuos em sprints) e DevOps (testes automatizados no CI/CD).
 
-- Ferramentas: Jira para gestão de bugs, TestRail para organização de casos de teste.
+#### Ferramentas: Jira para gestão de bugs, TestRail para organização de casos de teste.
 
 #### 2. Planejamento e Estratégias de Teste
 Critérios de aceitação: Usar BDD (Behavior-Driven Development) para definir cenários (ex.: "Dado um usuário logado, quando adiciona um item ao carrinho, então o total deve ser atualizado").
