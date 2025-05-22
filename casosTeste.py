@@ -11,3 +11,4 @@ assert realizar_pagamento(100, 50) == "Pagamento aprovado"
 assert realizar_pagamento(50, 100) == "Saldo insuficiente"
 
 print("Testes críticos de pagamento passaram!")
+
