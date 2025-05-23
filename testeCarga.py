@@ -11,3 +11,9 @@ with concurrent.futures.ThreadPoolExecutor() as executor:
 
 print(f"Usuários simultâneos testados: {len(resultados)}")
 print(f"Todos com status 200: {all(r == 200 for r in resultados)}")
+
+
+
+#Saída:
+    #Usuários simultâneos testados: 10
+    #Todos com status 200: True
