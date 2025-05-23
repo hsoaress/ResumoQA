@@ -12,3 +12,6 @@ assert testar_login("admin", "1234") == "Login bem-sucedido"
 assert testar_login("user", "1234") == "Falha no login"
 
 print("Testes de login passaram!")
+
+#Saída: 
+    #Testes de login passaram!
