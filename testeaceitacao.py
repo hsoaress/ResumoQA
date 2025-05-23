@@ -19,3 +19,6 @@ carrinho["total"] += 50
 assert carrinho["total"] == 50, f"Falha: total = {carrinho['total']}, esperado 50"
 
 print("Teste de aceitação passou!")
+
+#Saída: 
+     #Teste de aceitação passou!
