@@ -12,3 +12,8 @@ assert carrinho["total"] == 30, "Total incorreto no carrinho!"
 
 print("Critério de aceitação passou!")
 
+
+
+#Saída:
+        #Critério de aceitação passou!
+
