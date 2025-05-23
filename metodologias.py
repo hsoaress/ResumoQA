@@ -31,3 +31,7 @@ if rodar_todos_os_testes():
     print("Todos os testes passaram. Pronto para deploy!")
 else:
     print("Alguns testes falharam.")
+
+
+#Saída: 
+    #Todos os testes passaram. Pronto para deploy!
