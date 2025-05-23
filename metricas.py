@@ -7,3 +7,7 @@ funcoes_testadas = 4
 cobertura = (funcoes_testadas / funcoes_totais) * 100
 
 print(f"Taxa de cobertura: {cobertura}%")  # Ex.: 80%
+
+
+#Saída: 
+    #Taxa de cobertura: 80.0%
