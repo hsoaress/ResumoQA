@@ -15,5 +15,5 @@ except ValueError as e:
 
 
 #Saída: 
-#LOG: Usuário fez login
-#Erro: Não permitido logar dados sensíveis.
+        #LOG: Usuário fez login
+        #Erro: Não permitido logar dados sensíveis.
