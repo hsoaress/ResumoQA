@@ -11,3 +11,9 @@ try:
     logar_mensagem("Senha: 123456", dados_sensiveis=True)
 except ValueError as e:
     print(e)
+
+
+
+#Saída: 
+#LOG: Usuário fez login
+#Erro: Não permitido logar dados sensíveis.
